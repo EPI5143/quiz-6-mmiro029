@@ -1,3 +1,4 @@
+*By Marcel Miron-Celis(8298424);
 libname bigdata '/folders/myshortcuts/Myfolders/Large databases/Assignments';
 libname clasdata '/folders/myshortcuts/Myfolders/Large databases/Master Data Sets';
 proc contents data=clasdata.nencounter;
